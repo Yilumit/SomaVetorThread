@@ -1,6 +1,6 @@
 package view;
 /*	
- * 	Insire números aleatórios em uma matriz 3 x 5 e faz a chamada Threads 3 vezes,
+ * 	Insere números aleatórios em uma matriz 3 x 5 e faz a chamada Threads 3 vezes,
  * 	onde cada chamada calcula a soma dos valores de cada linha da matriz
  * 
  */
